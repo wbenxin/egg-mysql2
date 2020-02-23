@@ -1,0 +1,27 @@
+{
+  "name": "egg-mysql2",
+  "version": "1.0.0",
+  "description": "基于mysql2的egg插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbenxin/egg-mysql2.git"
+  },
+  "keywords": [
+    "egg",
+    "mysql2",
+    "plugin"
+  ],
+  "author": "wangbenxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wbenxin/egg-mysql2/issues"
+  },
+  "homepage": "https://github.com/wbenxin/egg-mysql2#readme",
+  "dependencies": {
+    "mysql2": "^2.1.0"
+  }
+}
